@@ -1,4 +1,5 @@
 # Hi! I'm Ramiro Lugo 👋
+Advanced information systems engineering student and front-end developer, learning back-end and constantly acquiring new knowledge.
 
 ## :paperclip: Links
 - LinkedIn: https://www.linkedin.com/in/ramiro-lugo/
