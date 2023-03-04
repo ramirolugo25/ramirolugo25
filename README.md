@@ -2,7 +2,7 @@
 
 ## :paperclip: Links
 - LinkedIn: https://www.linkedin.com/in/ramiro-lugo/
-- WebSite: https://www.linkedin.com/in/ramiro-lugo/
+- WebSite: https://ramiro-lugo.netlify.app/
 
 ## :email:  Contact
 ramirolugo2525@gmail.com
