@@ -8,7 +8,7 @@ Advanced information systems engineering student and front-end developer, learni
 ## :email:  Contact
 ramirolugo2525@gmail.com
 
-## :computer: Proyects
+## :computer: Projects
 - Marvel Comics:
   Deploy: https://marvel-comics-rl.netlify.app/
   Repository: https://github.com/ramirolugo25/Marvel-Comics
